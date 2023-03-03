@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrabalPatidar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA,Development
+- 🌱 I’m currently learning DSA,Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
